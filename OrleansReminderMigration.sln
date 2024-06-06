@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API and silo", "API and silo\API and silo.csproj", "{35988445-7CAA-4AA7-8BC8-DCE6E1088F0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleHost", "SingleHost\SingleHost.csproj", "{157BFE99-3816-46AE-A6D7-782AC72BD43D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{35988445-7CAA-4AA7-8BC8-DCE6E1088F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35988445-7CAA-4AA7-8BC8-DCE6E1088F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35988445-7CAA-4AA7-8BC8-DCE6E1088F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35988445-7CAA-4AA7-8BC8-DCE6E1088F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157BFE99-3816-46AE-A6D7-782AC72BD43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157BFE99-3816-46AE-A6D7-782AC72BD43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157BFE99-3816-46AE-A6D7-782AC72BD43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157BFE99-3816-46AE-A6D7-782AC72BD43D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
